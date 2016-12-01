@@ -86,6 +86,8 @@ The second link is a MOOC that will teach you learning techniques used by expert
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 12 weeks | 10-20 hours/week
+[Computer Science 101 - CS101-SP](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)| 10 weeks | 4 hours/week
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9#!)| 9 weeks | 15 hours/week
 
 ### Math (Mathematical Thinking)
 
